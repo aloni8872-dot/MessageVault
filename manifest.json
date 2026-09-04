@@ -6,7 +6,7 @@
       "name": "MessageVault"
     }
   ],
-  "main": "src/index.js",
+  "main": "index.js",
   "vendetta": {
     "icon": "ic_history"
   }
