@@ -1,6 +1,6 @@
 {
   "name": "Message Vault",
-  "description": "Local history for messages observed before they are edited or deleted.",
+  "description": "Local history for messages edited or deleted.",
   "authors": [
     {
       "name": "MessageVault"
