@@ -1,0 +1,13 @@
+{
+  "name": "Message Vault",
+  "description": "Local history for messages observed before they are edited or deleted.",
+  "authors": [
+    {
+      "name": "MessageVault"
+    }
+  ],
+  "main": "src/index.js",
+  "vendetta": {
+    "icon": "ic_history"
+  }
+}
