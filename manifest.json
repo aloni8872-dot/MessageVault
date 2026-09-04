@@ -1,10 +1,14 @@
 {
   "name": "Message Vault",
-  "description": "Local history for messages edited or deleted.",
+  "description": "Stores a local history of messages observed before they are edited or deleted.",
   "authors": [
     {
       "name": "Aloni"
     }
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "hash": "a72289783bdecedd4620fa4e93d17af3ec0ad20e78f4f853c41b44be1d428743",
+  "vendetta": {
+    "icon": "ic_history_24px"
+  }
 }
