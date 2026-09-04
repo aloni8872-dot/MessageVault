@@ -3,11 +3,8 @@
   "description": "Local history for messages edited or deleted.",
   "authors": [
     {
-      "name": "MessageVault"
+      "name": "Aloni"
     }
   ],
-  "main": "index.js",
-  "vendetta": {
-    "icon": "ic_history"
-  }
+  "main": "index.js"
 }
